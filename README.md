@@ -4,6 +4,7 @@
  ```
 Vite
 React
+JavaScript
 Css
 
 ```
